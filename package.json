@@ -1,0 +1,18 @@
+{
+  "name": "38scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Triple Scores ◄ Get Your FREE Credit Score Triple Scores, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "Triple Scores",
+    "chase credit cards credit score",
+    "693 credit score",
+    "credit score joint account",
+    "a credit score 700"
+  ],
+  "repository": "https://github.com/truelestor/38scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
